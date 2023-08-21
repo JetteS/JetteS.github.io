@@ -4,5 +4,7 @@ output:
   html_document:
 ---
 
+# About
+
 Hi there, I am Jette Steinbach, a research assistant at the National Center for Register Based Research.
 [Read more about me here](about.html)
